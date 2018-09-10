@@ -12,6 +12,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node bot.js"
   },
+  "engines": {
+    "node": "10.8.0"
+  },
   "author": "OotinnyoO",
   "license": "ISC"
 }
