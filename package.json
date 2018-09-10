@@ -13,7 +13,8 @@
     "start": "node bot.js"
   },
   "engines": {
-    "node": "10.8.0"
+    "node": "10.8.0",
+    "npm": "6.4.0"
   },
   "author": "OotinnyoO",
   "license": "ISC"
