@@ -79,4 +79,4 @@ message.channel.send("Announcements!", { embed });
 	}
 });
 
-Client.login('NDYzMzI0NDkxMjc2MjIyNDY1.DjjW2Q.JNfL7-1Gzkv0uKXwWaFl2Ib-vc4');
+Client.login(process.env.bottoken);
