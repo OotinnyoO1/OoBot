@@ -80,3 +80,6 @@ message.channel.send("Announcements!", { embed });
 });
 
 Client.login(process.env.bottoken);
+
+// Procfiles
+worker: node bot.js
